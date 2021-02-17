@@ -1,2 +1,0 @@
-# NeuralNetworks
-University
